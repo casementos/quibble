@@ -1,9 +1,9 @@
 [submodule "src/ntfs-efi"]
 	path = ntfs
-	url = https://github.com/maharmstone/ntfs-efi
+	url = https://github.com/casementos/ntfs-efi
 [submodule "btrfs-efi"]
 	path = btrfs
-	url = https://github.com/maharmstone/btrfs-efi
+	url = https://github.com/casementos/btrfs-efi
 [submodule "freetype2"]
 	path = freetype
 	url = https://gitlab.freedesktop.org/freetype/freetype
